@@ -1,7 +1,11 @@
 ##CSC3223 Graphics for Games
 
 ###Screenshots
+![Shader 1](https://github.com/StephenCathcart/csc3223-graphics-for-games/blob/master/screenshots/shader1.png)
 
+![Shader 1](https://github.com/StephenCathcart/csc3223-graphics-for-games/blob/master/screenshots/shader2.png)
+
+![Shader 3](https://github.com/StephenCathcart/csc3223-graphics-for-games/blob/master/screenshots/shader3.png)
 
 ###Controls
 L = Lines/Fill
